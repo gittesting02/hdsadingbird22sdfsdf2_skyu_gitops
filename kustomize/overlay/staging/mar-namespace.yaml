@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_fe43346e-7f26-4c88-bbbc-945041451c03
+    project-id: project_ded8938c-0848-4956-8aae-38e6802f8981
+    project-name: TeslaHummiasda1122333
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_06b3d6f6-167b-4d99-9abf-743a2f804c12
+    project-id: project_ded8938c-0848-4956-8aae-38e6802f8981
+    project-name: TeslaHummiasda1122333
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

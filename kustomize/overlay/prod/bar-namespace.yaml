@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_8f129563-005d-4380-a3db-827652eb19b4
+    project-id: project_ded8938c-0848-4956-8aae-38e6802f8981
+    project-name: TeslaHummiasda1122333
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
